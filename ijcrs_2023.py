@@ -9,10 +9,10 @@ Original file is located at
 
 # Source code for paper: "Searching of potentially anomalous signals in cosmic-ray particle tracks images using rough k-means clustering combined with eigendecomposition-derived embedding"
 # Download and unzip data and sources
-!wget http://galaxy.agh.edu.pl/~thachaj/ijcrs/credo_data.zip
-!wget http://galaxy.agh.edu.pl/~thachaj/ijcrs/emb.npy
-!wget http://galaxy.agh.edu.pl/~thachaj/ijcrs/image_files_list.txt
-!wget http://galaxy.agh.edu.pl/~thachaj/ijcrs/kmrs.py
+!wget https://github.com/browarsoftware/particle_pars/raw/master/data/credo_data.zip
+!wget https://github.com/browarsoftware/particle_pars/raw/master/data/emb.npy
+!wget https://github.com/browarsoftware/particle_pars/raw/master/data/image_files_list.txt
+!wget https://raw.githubusercontent.com/browarsoftware/particle_pars/master/rkmeans/kmrs.py
 !mkdir data
 !unzip  -qq credo_data.zip -d data
 
