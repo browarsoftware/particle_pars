@@ -28,5 +28,5 @@ TBA
 
 ## Source code references
 
-I have used parts of source codes from:
+We have used parts of source codes from:
 - [Rough k-means clustering](https://github.com/geofizx/rough-clustering)
