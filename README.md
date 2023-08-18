@@ -16,7 +16,7 @@ Keywords: Cosmic-ray particle, Anomalies detection, Rough sets, Rough k-means, C
 
 Visualization of the results of the proposed algorithm for rough k-means with paramters $(k=4,t=1.25,w_{lower}=0.9,w_{upper}=0.1)$.
 
-![alt text](images/res.png) ![alt text](images/res.png)
+![alt text](images/res.png)
 
 ## Full text
 
